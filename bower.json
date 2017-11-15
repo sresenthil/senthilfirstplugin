@@ -1,0 +1,28 @@
+{
+  "name": "senthilfirstplugin",
+  "version": "0.0.1",
+  "description": "first plugin",
+  "main": "senthilfirstplugin.js",
+  "authors": [
+    "senthil"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs",
+    "autocomplete",
+    "dropdown"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "angular": ">=1.2.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore",
+    "package.json"
+  ]
+}
